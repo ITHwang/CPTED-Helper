@@ -1,18 +1,12 @@
 # CPTED HELPER
 
----
-
 ## Intro
-
----
 
 - Selected the TOP 20 most crime-prone streets in 685 streets in Donjak-gu, Seoul by analyzing the open data with Python, Scikit-learn.
 - Verified the results through an on-site survey and suggested them to the Dongjak-gu district office for helping accelerate their CPTED(Crime Prevention Through Environmental Design) project.
 - [Online Presentation](https://youtu.be/HBVjWPA_vf8)
 
 ## PPT
-
----
 
 <br/>
 <img src="readme-img/황인택(개인참가)_분석설명서_pages-to-jpg-0001.jpg">
